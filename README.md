@@ -6,6 +6,6 @@ Karnaugh map method of simplifying Boolean algebra expressions
 
 ## Requeriments
 
-* <Opengl>
+* Opengl
 
-* <Glut>
+* Glut
