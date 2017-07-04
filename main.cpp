@@ -205,7 +205,7 @@ void Time(int t)
 //    glutTimerFunc(30, Time, t);
 }
 
-int main()
+int main(int argc, char** argv)
 {
     map= new bool*[4];
     for(int i=0; i<4; i++)
@@ -222,6 +222,7 @@ int main()
         x=0.32;
         y+=2*len+0.01;
     }
+	glutInit(&argc,argv);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH);
     glutInitWindowSize(640, 480);
     glutCreateWindow("Mapa");
