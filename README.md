@@ -1,6 +1,6 @@
 # Karnaugh map with graphical interface
 
-## Resumo
+## Summary
 
 Karnaugh map method of simplifying Boolean algebra expressions
 
