@@ -7,4 +7,5 @@ Karnaugh map method of simplifying Boolean algebra expressions
 ## Requeriments
 
 **Opengl**
-**Glut>**
+
+**Glut**
